@@ -1,0 +1,122 @@
+[
+  {
+    "inci_name": "AQUA",
+    "cas_no": "7732-18-5",
+    "common_name": "Water / Purified Water",
+    "category": "Solvent",
+    "safety_color": "GREEN",
+    "function_th": "ตัวทำละลายหลัก (Solvent)",
+    "risk_description": "น้ำบริสุทธิ์ มีความปลอดภัยสูงที่สุด",
+    "regulatory_status": "Approved"
+  },
+  {
+    "inci_name": "SODIUM LAURETH SULFATE",
+    "cas_no": "9004-82-4",
+    "common_name": "SLES",
+    "category": "Surfactant",
+    "safety_color": "GREEN",
+    "function_th": "สารทำความสะอาดและสร้างฟอง (Cleansing Agent)",
+    "risk_description": "ผ่านเกณฑ์มาตรฐานเครื่องสำอาง อย. อ่อนโยนกว่า SLS ทั่วไป อาจทำให้ผิวแห้งได้เล็กน้อยหากใช้ความเข้มข้นสูง",
+    "regulatory_status": "Approved"
+  },
+  {
+    "inci_name": "COCAMIDOPROPYL BETAINE",
+    "cas_no": "61789-40-0",
+    "common_name": "Coco Betaine",
+    "category": "Surfactant",
+    "safety_color": "GREEN",
+    "function_th": "สารลดแรงตึงผิวร่วมและสร้างฟองจากธรรมชาติ (Amphoteric Surfactant)",
+    "risk_description": "สกัดจากกรดไขมันมะพร้าว อ่อนโยน ช่วยลดการระคายเคืองของสารทำความสะอาดตัวอื่น",
+    "regulatory_status": "Approved"
+  },
+  {
+    "inci_name": "COCO-GLUCOSIDE",
+    "cas_no": "141464-42-8",
+    "common_name": "Coco Glucoside",
+    "category": "Surfactant",
+    "safety_color": "GREEN",
+    "function_th": "สารทำความสะอาดจากธรรมชาติอ่อนโยนสูง (Non-ionic Surfactant)",
+    "risk_description": "สกัดจากมะพร้าวและน้ำตาล ย่อยสลายได้ตามธรรมชาติ อ่อนโยนมาก เหมาะกับผิวแพ้ง่าย",
+    "regulatory_status": "Approved"
+  },
+  {
+    "inci_name": "CLITORIA TERNATEA FLOWER EXTRACT",
+    "cas_no": "N/A",
+    "common_name": "Butterfly Pea Extract",
+    "category": "Botanical Extract",
+    "safety_color": "GREEN",
+    "function_th": "สารสกัดดอกอัญชันบำรุงเส้นผม (Botanical Extract)",
+    "risk_description": "สารสกัดจากพืชธรรมชาติ มีคุณสมบัติต้านอนุมูลอิสระ บำรุงหนังศีรษะและเส้นผมให้ดกดำ",
+    "regulatory_status": "Approved"
+  },
+  {
+    "inci_name": "PANAX GINSENG ROOT EXTRACT",
+    "cas_no": "84650-12-4",
+    "common_name": "Ginseng Extract",
+    "category": "Botanical Extract",
+    "safety_color": "GREEN",
+    "function_th": "สารสกัดจากโสม (Botanical Extract)",
+    "risk_description": "สารสกัดธรรมชาติช่วยบำรุงรากผม เพิ่มการไหลเวียนและชะลอการขาดหลุดร่วง",
+    "regulatory_status": "Approved"
+  },
+  {
+    "inci_name": "HYDROGEN PEROXIDE",
+    "cas_no": "7722-84-1",
+    "common_name": "Developer / Oxidizing Agent",
+    "category": "Oxidizing Agent",
+    "safety_color": "YELLOW",
+    "function_th": "สารออกซิไดซ์เร่งปฏิกิริยาสีผม (Developer)",
+    "risk_description": "ใช้เป็นสารกัด/กัดสีผมและเร่งปฏิกิริยา มีเกณฑ์ควบคุมปริมาณความเข้มข้น อาจทำให้ผมแห้งเสียหรือระคายเคืองหนังศีรษะได้",
+    "regulatory_status": "Restricted (ต้องใช้ตามปริมาณที่กฎหมายกำหนด)"
+  },
+  {
+    "inci_name": "FRAGRANCE",
+    "cas_no": "N/A",
+    "common_name": "Parfum / Aroma",
+    "category": "Fragrance",
+    "safety_color": "YELLOW",
+    "function_th": "สารแต่งกลิ่นหอมเครื่องสำอาง",
+    "risk_description": "ผสมจากสารกลิ่นหอมหลายชนิด อาจกระตุ้น อาการแพ้หรือระคายเคืองในผู้ที่มีผิวบอบบางแพ้ง่าย (Sensitizer)",
+    "regulatory_status": "Approved"
+  },
+  {
+    "inci_name": "ETHANOLAMINE",
+    "cas_no": "141-43-5",
+    "common_name": "Monoethanolamine (MEA)",
+    "category": "Alkalizing Agent",
+    "safety_color": "YELLOW",
+    "function_th": "สารปรับค่า pH และเปิดเกล็ดผม (Alkalizing Agent)",
+    "risk_description": "ใช้แทนแอมโมเนียเพื่อให้ไม่มีกลิ่นฉุน แต่ยังมีฤทธิ์ความเป็นด่างที่อาจทำให้เกล็ดผมเปิดและเกิดการระคายเคืองได้",
+    "regulatory_status": "Restricted"
+  },
+  {
+    "inci_name": "P-PHENYLENEDIAMINE",
+    "cas_no": "106-50-3",
+    "common_name": "PPD",
+    "category": "Oxidative Hair Dye",
+    "safety_color": "RED",
+    "function_th": "สารตั้งต้นเปลี่ยนสีผมถาวร (Oxidative Hair Dye Precursor)",
+    "risk_description": "สารเคมีเปลี่ยนสีผมถาวรที่มีศักยภาพกระตุ้นอาการแพ้สัมผัสรุนแรง (Severe Contact Allergen) ต้องมีคำเตือนและทดสอบการแพ้ก่อนใช้ 48 ชม.",
+    "regulatory_status": "Restricted (ห้ามเกิน 2% ในผลิตภัณฑ์ล้างออก)"
+  },
+  {
+    "inci_name": "RESORCINOL",
+    "cas_no": "108-46-3",
+    "common_name": "Resorcin",
+    "category": "Color Coupling Agent",
+    "safety_color": "RED",
+    "function_th": "สารประกอบร่วมสร้างเฉดสีผม (Color Coupling Agent)",
+    "risk_description": "สารเคมีเปลี่ยนสีผมที่อาจก่อการระคายเคืองผิวหนังและตา มีการควบคุมปริมาณการใช้อย่างเคร่งครัดตามกฎหมาย อย.",
+    "regulatory_status": "Restricted (ห้ามเกิน 1.25% ในผลิตภัณฑ์ล้างออก)"
+  },
+  {
+    "inci_name": "M-AMINOPHENOL",
+    "cas_no": "591-27-5",
+    "common_name": "MAP",
+    "category": "Color Coupling Agent",
+    "safety_color": "RED",
+    "function_th": "สารปรับเฉดสีผมโทนหม่น/น้ำตาล (Color Coupler)",
+    "risk_description": "สารกลุ่มย้อมผมถาวร มีโอกาสสะสมและก่ออาการแพ้สัมผัส ต้องปฏิบัติตามคำเตือนบนฉลากอย่างเคร่งครัด",
+    "regulatory_status": "Restricted"
+  }
+]
