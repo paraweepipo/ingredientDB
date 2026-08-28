@@ -739,10 +739,9 @@
     "inci_name": "AZELAIC ACID",
     "common_name": "Azelaic Acid",
     "category": "Antioxidant, Exfoliant, pH Adjuster/Stabilizer",
-    "safety_color": "RED",
-    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
-    "regulatory_status": "Prohibited",
-    "safety_flag": "RED (Prohibited)"
+    "safety_color": "GREEN",
+    "risk_description": "Allowed for use in cosmetics. May cause mild skin irritation or redness at high concentrationsใ",
+    "regulatory_status": "Approved"
   },
   {
     "inci_name": "AZELAOYL BIS-DIPEPTIDE-10",
@@ -1436,10 +1435,9 @@
     "inci_name": "CATALASE",
     "common_name": "Catalase",
     "category": "Antioxidant",
-    "safety_color": "RED",
-    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
-    "regulatory_status": "Prohibited",
-    "safety_flag": "RED (Prohibited)"
+    "safety_color": "GREEN",
+    "risk_description": "Safe for use in cosmetics. Functions as an antioxidant enzyme to protect skin from oxidative stress.",
+    "regulatory_status": "Approved"
   },
   {
     "inci_name": "CENTAUREA CYANUS",
@@ -169286,8 +169284,8 @@
     "regulatory_status": "Approved"
   },
   {
-    "inci_name": "RESORCINOL",
-    "common_name": "Resorcinol",
+    "inci_name": "RESORCINOL DIGLYCIDYL ETHER",
+    "common_name": "Resorcinol diglycidyl ether",
     "category": "Cosmetic Ingredient",
     "safety_color": "RED",
     "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
