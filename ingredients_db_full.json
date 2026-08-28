@@ -739,9 +739,10 @@
     "inci_name": "AZELAIC ACID",
     "common_name": "Azelaic Acid",
     "category": "Antioxidant, Exfoliant, pH Adjuster/Stabilizer",
-    "safety_color": "GREEN",
-    "risk_description": "Soothing agent and gentle exfoliant that refines skin’s texture and reduces blemishes + their marks. Famous for calming reddened, sensitive skin.",
-    "regulatory_status": "Approved"
+    "safety_color": "RED",
+    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
+    "regulatory_status": "Prohibited",
+    "safety_flag": "RED (Prohibited)"
   },
   {
     "inci_name": "AZELAOYL BIS-DIPEPTIDE-10",
@@ -1435,9 +1436,10 @@
     "inci_name": "CATALASE",
     "common_name": "Catalase",
     "category": "Antioxidant",
-    "safety_color": "GREEN",
-    "risk_description": "Enzyme that decomposes hydrogen peroxide into water and oxygen and that has significant antioxidant properties.",
-    "regulatory_status": "Approved"
+    "safety_color": "RED",
+    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
+    "regulatory_status": "Prohibited",
+    "safety_flag": "RED (Prohibited)"
   },
   {
     "inci_name": "CENTAUREA CYANUS",
@@ -15371,9 +15373,10 @@
     "inci_name": "DIBUTYL PHTHALATE",
     "common_name": "Dibutyl Phthalate",
     "category": "Solvent, Fragrance: Synthetic and Natural",
-    "safety_color": "YELLOW",
-    "risk_description": "Also known as DBP, it is a common ingredient in nail polish and most synthetic fragrances sold today.",
-    "regulatory_status": "Approved"
+    "safety_color": "RED",
+    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
+    "regulatory_status": "Prohibited",
+    "safety_flag": "RED (Prohibited)"
   },
   {
     "inci_name": "DIETHYLHEXYL SUCCINATE",
@@ -15627,9 +15630,10 @@
     "inci_name": "ISOBUTANE",
     "common_name": "Isobutane",
     "category": "Cosmetic Ingredient",
-    "safety_color": "YELLOW",
-    "risk_description": "Isobutane is a colorless, odorless gas used as a propellant for aerosol cans used in some cosmetics",
-    "regulatory_status": "Approved"
+    "safety_color": "RED",
+    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
+    "regulatory_status": "Prohibited",
+    "safety_flag": "RED (Prohibited)"
   },
   {
     "inci_name": "ISOCETYL SALICYLATE",
@@ -18380,8 +18384,9 @@
     "common_name": "Methanol",
     "category": "Irritant, Fragrance: Synthetic and Natural, Solvent",
     "safety_color": "RED",
-    "risk_description": "Methanol is a volatile, organic alcohol used to help denature other forms of alcohol. When used on its own, it’s toxic when inhaled, applied topically or ingested.",
-    "regulatory_status": "Restricted"
+    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
+    "regulatory_status": "Prohibited",
+    "safety_flag": "RED (Prohibited)"
   },
   {
     "inci_name": "METHYLCHLOROISOTHIAZOLINONE",
@@ -20299,9 +20304,10 @@
     "inci_name": "2-AMINO-4-NITROPHENOL",
     "common_name": "2-Amino-4-Nitrophenol",
     "category": "Cosmetic Ingredient",
-    "safety_color": "YELLOW",
-    "risk_description": "Functions: Hair Dyeing. We have not yet rated this ingredient because we have not had a chance to review the research on it.",
-    "regulatory_status": "Approved"
+    "safety_color": "RED",
+    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
+    "regulatory_status": "Prohibited",
+    "safety_flag": "RED (Prohibited)"
   },
   {
     "inci_name": "2-AMINO-4-NITROPHENOL SULFATE",
@@ -20323,9 +20329,10 @@
     "inci_name": "2-AMINO-5-NITROPHENOL",
     "common_name": "2-Amino-5-Nitrophenol",
     "category": "Cosmetic Ingredient",
-    "safety_color": "YELLOW",
-    "risk_description": "Functions: Hair Dyeing. We have not yet rated this ingredient because we have not had a chance to review the research on it.",
-    "regulatory_status": "Approved"
+    "safety_color": "RED",
+    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
+    "regulatory_status": "Prohibited",
+    "safety_flag": "RED (Prohibited)"
   },
   {
     "inci_name": "2-AMINO-6-CHLORO-4-NITROPHENOL",
@@ -21195,9 +21202,10 @@
     "inci_name": "2-NAPHTHOL",
     "common_name": "2-Naphthol",
     "category": "Cosmetic Ingredient",
-    "safety_color": "YELLOW",
-    "risk_description": "Functions: Hair Dyeing, Fragrance. We have not yet rated this ingredient because we have not had a chance to review the research on it.",
-    "regulatory_status": "Approved"
+    "safety_color": "RED",
+    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
+    "regulatory_status": "Prohibited",
+    "safety_flag": "RED (Prohibited)"
   },
   {
     "inci_name": "2-NITRO-5-GLYCERYL METHYLANILINE",
@@ -22491,9 +22499,10 @@
     "inci_name": "4-AMINO-2-NITROPHENOL",
     "common_name": "4-Amino-2-Nitrophenol",
     "category": "Cosmetic Ingredient",
-    "safety_color": "YELLOW",
-    "risk_description": "Functions: Hair Dyeing. We have not yet rated this ingredient because we have not had a chance to review the research on it.",
-    "regulatory_status": "Approved"
+    "safety_color": "RED",
+    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
+    "regulatory_status": "Prohibited",
+    "safety_flag": "RED (Prohibited)"
   },
   {
     "inci_name": "4-AMINO-3-HYDROXYBUTYRIC ACID",
@@ -23411,9 +23420,10 @@
     "inci_name": "6-NITRO-O-TOLUIDINE",
     "common_name": "6-Nitro-O-Toluidine",
     "category": "Cosmetic Ingredient",
-    "safety_color": "YELLOW",
-    "risk_description": "Functions: Hair Dyeing. We have not yet rated this ingredient because we have not had a chance to review the research on it.",
-    "regulatory_status": "Approved"
+    "safety_color": "RED",
+    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
+    "regulatory_status": "Prohibited",
+    "safety_flag": "RED (Prohibited)"
   },
   {
     "inci_name": "6-TERT-BUTYLQUINOLINE",
@@ -31331,9 +31341,10 @@
     "inci_name": "AMINOPHYLLINE",
     "common_name": "Aminophylline",
     "category": "Cosmetic Ingredient",
-    "safety_color": "YELLOW",
-    "risk_description": "Functions: Skin Conditioning, Cleansing Agent. We have not yet rated this ingredient because we have not had a chance to review the research on it.",
-    "regulatory_status": "Approved"
+    "safety_color": "RED",
+    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
+    "regulatory_status": "Prohibited",
+    "safety_flag": "RED (Prohibited)"
   },
   {
     "inci_name": "AMINOPROPANEDIOL",
@@ -44315,9 +44326,10 @@
     "inci_name": "BUTANE",
     "common_name": "Butane",
     "category": "Cosmetic Ingredient",
-    "safety_color": "YELLOW",
-    "risk_description": "Functions: Propellant. We have not yet rated this ingredient because we have not had a chance to review the research on it.",
-    "regulatory_status": "Approved"
+    "safety_color": "RED",
+    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
+    "regulatory_status": "Prohibited",
+    "safety_flag": "RED (Prohibited)"
   },
   {
     "inci_name": "BUTANEDIOL/ADIPIC ACID COPOLYMER",
@@ -55379,9 +55391,10 @@
     "inci_name": "CHLOROFORM",
     "common_name": "Chloroform",
     "category": "Cosmetic Ingredient",
-    "safety_color": "YELLOW",
-    "risk_description": "Functions: Solvent. We have not yet rated this ingredient because we have not had a chance to review the research on it.",
-    "regulatory_status": "Approved"
+    "safety_color": "RED",
+    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
+    "regulatory_status": "Prohibited",
+    "safety_flag": "RED (Prohibited)"
   },
   {
     "inci_name": "CHLOROGENIC ACIDS",
@@ -64091,9 +64104,10 @@
     "inci_name": "CROTONALDEHYDE",
     "common_name": "Crotonaldehyde",
     "category": "Cosmetic Ingredient",
-    "safety_color": "YELLOW",
-    "risk_description": "Functions: Antioxidant, Fragrance. We have not yet rated this ingredient because we have not had a chance to review the research on it.",
-    "regulatory_status": "Approved"
+    "safety_color": "RED",
+    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
+    "regulatory_status": "Prohibited",
+    "safety_flag": "RED (Prohibited)"
   },
   {
     "inci_name": "CROTON ELUTERIA OIL",
@@ -65587,9 +65601,10 @@
     "inci_name": "CYCLOHEXYLAMINE",
     "common_name": "Cyclohexylamine",
     "category": "Cosmetic Ingredient",
-    "safety_color": "YELLOW",
-    "risk_description": "Functions: Anticorrosive, Buffering. We have not yet rated this ingredient because we have not had a chance to review the research on it.",
-    "regulatory_status": "Approved"
+    "safety_color": "RED",
+    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
+    "regulatory_status": "Prohibited",
+    "safety_flag": "RED (Prohibited)"
   },
   {
     "inci_name": "CYCLOHEXYL BUTYRATE",
@@ -70523,9 +70538,10 @@
     "inci_name": "DIETHYLENE GLYCOL",
     "common_name": "Diethylene Glycol",
     "category": "Cosmetic Ingredient",
-    "safety_color": "YELLOW",
-    "risk_description": "Functions: Fragrance, Solvent, Viscosity Controlling. We have not yet rated this ingredient because we have not had a chance to review the research on it.",
-    "regulatory_status": "Approved"
+    "safety_color": "RED",
+    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
+    "regulatory_status": "Prohibited",
+    "safety_flag": "RED (Prohibited)"
   },
   {
     "inci_name": "DIETHYLENE GLYCOL/DIMER DILINOLEIC ACID COPOLYMER",
@@ -84115,9 +84131,10 @@
     "inci_name": "FORMALDEHYDE",
     "common_name": "Formaldehyde",
     "category": "Cosmetic Ingredient",
-    "safety_color": "YELLOW",
-    "risk_description": "Functions: Antimicrobial, Denaturant, Preservative. We have not yet rated this ingredient because we have not had a chance to review the research on it.",
-    "regulatory_status": "Approved"
+    "safety_color": "RED",
+    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
+    "regulatory_status": "Prohibited",
+    "safety_flag": "RED (Prohibited)"
   },
   {
     "inci_name": "FORMALDEHYDE CYCLODECYL ETHYL ACETAL",
@@ -92467,9 +92484,10 @@
     "inci_name": "HEXANE",
     "common_name": "Hexane",
     "category": "Cosmetic Ingredient",
-    "safety_color": "YELLOW",
-    "risk_description": "Functions: Solvent, Viscosity Controlling. We have not yet rated this ingredient because we have not had a chance to review the research on it.",
-    "regulatory_status": "Approved"
+    "safety_color": "RED",
+    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
+    "regulatory_status": "Prohibited",
+    "safety_flag": "RED (Prohibited)"
   },
   {
     "inci_name": "HEXANEDIOL BEESWAX",
@@ -102643,9 +102661,10 @@
     "inci_name": "IMIDAZOLE",
     "common_name": "Imidazole",
     "category": "Cosmetic Ingredient",
-    "safety_color": "YELLOW",
-    "risk_description": "Functions: Buffering. We have not yet rated this ingredient because we have not had a chance to review the research on it.",
-    "regulatory_status": "Approved"
+    "safety_color": "RED",
+    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
+    "regulatory_status": "Prohibited",
+    "safety_flag": "RED (Prohibited)"
   },
   {
     "inci_name": "IMIDAZOLIDINONE",
@@ -140331,9 +140350,10 @@
     "inci_name": "PEG-3,2',2'-DI-P-PHENYLENEDIAMINE",
     "common_name": "PEG-3,2',2'-Di-P-Phenylenediamine",
     "category": "Cosmetic Ingredient",
-    "safety_color": "YELLOW",
-    "risk_description": "Functions: Hair Dyeing. We have not yet rated this ingredient because we have not had a chance to review the research on it.",
-    "regulatory_status": "Approved"
+    "safety_color": "RED",
+    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
+    "regulatory_status": "Prohibited",
+    "safety_flag": "RED (Prohibited)"
   },
   {
     "inci_name": "PEG-30 CASTOR OIL",
@@ -147483,9 +147503,10 @@
     "inci_name": "PHENOL",
     "common_name": "Phenol",
     "category": "Cosmetic Ingredient",
-    "safety_color": "YELLOW",
-    "risk_description": "Functions: Antimicrobial, Denaturant, Deodorant, Fragrance, Oral Care, Preservative. We have not yet rated this ingredient because we have not had a chance to review the research on it.",
-    "regulatory_status": "Approved"
+    "safety_color": "RED",
+    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
+    "regulatory_status": "Prohibited",
+    "safety_flag": "RED (Prohibited)"
   },
   {
     "inci_name": "PHENOLSULFONPHTHALEIN",
@@ -167027,9 +167048,10 @@
     "inci_name": "PYROGALLOL",
     "common_name": "Pyrogallol",
     "category": "Cosmetic Ingredient",
-    "safety_color": "YELLOW",
-    "risk_description": "Functions: Hair Dyeing. We have not yet rated this ingredient because we have not had a chance to review the research on it.",
-    "regulatory_status": "Approved"
+    "safety_color": "RED",
+    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
+    "regulatory_status": "Prohibited",
+    "safety_flag": "RED (Prohibited)"
   },
   {
     "inci_name": "PYROGLUTAMYLAMIDOETHYL INDOLE",
@@ -169267,9 +169289,10 @@
     "inci_name": "RESORCINOL",
     "common_name": "Resorcinol",
     "category": "Cosmetic Ingredient",
-    "safety_color": "YELLOW",
-    "risk_description": "Functions: Antioxidant, Denaturant, Hair Dyeing, Fragrance. We have not yet rated this ingredient because we have not had a chance to review the research on it.",
-    "regulatory_status": "Approved"
+    "safety_color": "RED",
+    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
+    "regulatory_status": "Prohibited",
+    "safety_flag": "RED (Prohibited)"
   },
   {
     "inci_name": "RESORCINOL ACETATE",
@@ -181147,9 +181170,10 @@
     "inci_name": "SILVER NITRATE",
     "common_name": "Silver Nitrate",
     "category": "Cosmetic Ingredient",
-    "safety_color": "YELLOW",
-    "risk_description": "Functions: Hair Dyeing. We have not yet rated this ingredient because we have not had a chance to review the research on it.",
-    "regulatory_status": "Approved"
+    "safety_color": "RED",
+    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
+    "regulatory_status": "Prohibited",
+    "safety_flag": "RED (Prohibited)"
   },
   {
     "inci_name": "SILVER OXIDE",
@@ -185731,9 +185755,10 @@
     "inci_name": "SODIUM PERBORATE",
     "common_name": "Sodium Perborate",
     "category": "Cosmetic Ingredient",
-    "safety_color": "YELLOW",
-    "risk_description": "Functions: Oral Care. We have not yet rated this ingredient because we have not had a chance to review the research on it.",
-    "regulatory_status": "Approved"
+    "safety_color": "RED",
+    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
+    "regulatory_status": "Prohibited",
+    "safety_flag": "RED (Prohibited)"
   },
   {
     "inci_name": "SODIUM PG-PROPYLDIMETHICONE THIOSULFATE COPOLYMER",
@@ -191491,9 +191516,10 @@
     "inci_name": "STRONTIUM NITRATE",
     "common_name": "Strontium Nitrate",
     "category": "Cosmetic Ingredient",
-    "safety_color": "YELLOW",
-    "risk_description": "Functions: Oral Care, Skin Conditioning. We have not yet rated this ingredient because we have not had a chance to review the research on it.",
-    "regulatory_status": "Approved"
+    "safety_color": "RED",
+    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
+    "regulatory_status": "Prohibited",
+    "safety_flag": "RED (Prohibited)"
   },
   {
     "inci_name": "STRONTIUM PEROXIDE",
@@ -191611,9 +191637,10 @@
     "inci_name": "STYRENE",
     "common_name": "Styrene",
     "category": "Cosmetic Ingredient",
-    "safety_color": "YELLOW",
-    "risk_description": "Functions: Solvent. We have not yet rated this ingredient because we have not had a chance to review the research on it.",
-    "regulatory_status": "Approved"
+    "safety_color": "RED",
+    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
+    "regulatory_status": "Prohibited",
+    "safety_flag": "RED (Prohibited)"
   },
   {
     "inci_name": "STYRENE/ACRYLAMIDE COPOLYMER",
@@ -197027,9 +197054,10 @@
     "inci_name": "THEOPHYLLINE",
     "common_name": "Theophylline",
     "category": "Cosmetic Ingredient",
-    "safety_color": "YELLOW",
-    "risk_description": "Functions: Skin Conditioning, Tonic. We have not yet rated this ingredient because we have not had a chance to review the research on it.",
-    "regulatory_status": "Approved"
+    "safety_color": "RED",
+    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
+    "regulatory_status": "Prohibited",
+    "safety_flag": "RED (Prohibited)"
   },
   {
     "inci_name": "THERMUS THERMOPHILUS PUTATIVE ESTERASE",
@@ -205499,9 +205527,10 @@
     "inci_name": "VINYL ACETATE",
     "common_name": "Vinyl Acetate",
     "category": "Cosmetic Ingredient",
-    "safety_color": "YELLOW",
-    "risk_description": "Functions: Cleansing. We have not yet rated this ingredient because we have not had a chance to review the research on it.",
-    "regulatory_status": "Approved"
+    "safety_color": "RED",
+    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
+    "regulatory_status": "Prohibited",
+    "safety_flag": "RED (Prohibited)"
   },
   {
     "inci_name": "VINYL ALCOHOL/VINYLFORMAMIDE COPOLYMER",
