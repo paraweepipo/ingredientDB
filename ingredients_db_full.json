@@ -15627,11 +15627,11 @@
   {
     "inci_name": "ISOBUTANE",
     "common_name": "Isobutane",
-    "category": "Cosmetic Ingredient",
-    "safety_color": "RED",
-    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
-    "regulatory_status": "Prohibited",
-    "safety_flag": "RED (Prohibited)"
+    "category": "Propellant",
+    "safety_color": "YELLOW",
+    "risk_description": "RESTRICTED SUBSTANCE: Allowed for use as a propellant in aerosols. Must strictly control 1,3-butadiene impurity levels (< 0.1%).",
+    "regulatory_status": "Restricted",
+    "safety_flag": "YELLOW (Caution)"
   },
   {
     "inci_name": "ISOCETYL SALICYLATE",
@@ -18380,11 +18380,11 @@
   {
     "inci_name": "METHANOL",
     "common_name": "Methanol",
-    "category": "Irritant, Fragrance: Synthetic and Natural, Solvent",
-    "safety_color": "RED",
-    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
-    "regulatory_status": "Prohibited",
-    "safety_flag": "RED (Prohibited)"
+    "category": "Denaturant, Solvent",
+    "safety_color": "YELLOW",
+    "risk_description": "RESTRICTED SUBSTANCE: Allowed only as a denaturant for ethanol and isopropanol (max 5% of total alcohol mixture). Prohibited as a primary ingredient/solvent.",
+    "regulatory_status": "Restricted",
+    "safety_flag": "YELLOW (Caution)"
   },
   {
     "inci_name": "METHYLCHLOROISOTHIAZOLINONE",
@@ -181167,11 +181167,11 @@
   {
     "inci_name": "SILVER NITRATE",
     "common_name": "Silver Nitrate",
-    "category": "Cosmetic Ingredient",
-    "safety_color": "RED",
-    "risk_description": "PROHIBITED SUBSTANCE: Listed in banned cosmetic ingredients regulations.",
-    "regulatory_status": "Prohibited",
-    "safety_flag": "RED (Prohibited)"
+    "category": "Colorant, Hair Dye Component",
+    "safety_color": "YELLOW",
+    "risk_description": "RESTRICTED SUBSTANCE: Allowed for use exclusively in products intended for dyeing eyelashes and eyebrows, with a maximum concentration limit of 4%. Prohibited in general cosmetics.",
+  "regulatory_status": "Restricted",
+  "safety_flag": "YELLOW (Caution)"
   },
   {
     "inci_name": "SILVER OXIDE",
